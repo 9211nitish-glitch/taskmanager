@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
 // --- Configuration ---
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://taskmanage-w0ss.onrender.com';
 const ADMIN_WHATSAPP_NUMBER = '918588004216'; // Your WhatsApp number with country code
 
 // --- SVG Icons ---
